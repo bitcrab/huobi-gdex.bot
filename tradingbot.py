@@ -7,16 +7,6 @@ APIKEY='**********************************'
 SECERTKEY='*******************************'
 
 import time
-import sys
-
-sys.path.clear()
-sys.path.append("/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages")
-sys.path.append("/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8")
-sys.path.append("/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload")
-sys.path.append("/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/pylibscrypt")
-sys.path.append("/Users/bitcrab/PycharmProjects/bts/")
-sys.path.append("/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/huobi_Python")
-sys.path.append("/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/huobi_Python/huobi")
 
 from bitshares import BitShares
 from bitshares.account import Account
