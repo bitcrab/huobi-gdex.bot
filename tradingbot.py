@@ -1,5 +1,5 @@
 ##This is just a simple sample to show how to build a bot to do arbitrary trading between huobi and gdex, do not suggest to directly use it to trade, it's suggested to optimize it before using for security and efficiency reasons.
-## Libraries https://github.com/HuobiRDCenter/huobi_Python and https://github.com/bitshares/python-bitshares are using for connect huobi and BTS.
+## Libraries https://github.com/HuobiRDCenter/huobi_Python and https://github.com/bitshares/python-bitshares are used to connect huobi and BTS.
 
 
 ## Key of huobi account
